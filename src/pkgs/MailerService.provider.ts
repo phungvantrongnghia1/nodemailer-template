@@ -57,11 +57,10 @@ export class MailerService {
   }
   private async initConfigMail() {
     const CLIENT_ID =
-      '489667008444-3ul535gofo2h4en8gadnhjpftmdjt6sn.apps.googleusercontent.com';
-    const CLIENT_SECRET = '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';
-    const REFRESH_TOKEN =
-      '1//04_n09jPE6rhBCgYIARAAGAQSNwF-L9IrnQRh4zWbp7vXijK8cxIxzSQcAH4hMS-B7PU4jxoBcCLeVy5m2ED0vAhFil4uBPxSKDo';
-    const EMAIL = 'enringhia1@gmail.com';
+      '';
+    const CLIENT_SECRET = '';
+    const REFRESH_TOKEN = '';
+    const EMAIL='';
     try {
       const createTransporter = async () => {
         const oauth2Client = new OAuth2(

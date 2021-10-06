@@ -1,1 +1,0 @@
-{"version":3,"file":"ForbiddenException.js","sourceRoot":"","sources":["../../../src/pkgs/exceptions/ForbiddenException.ts"],"names":[],"mappings":";;;AAAA,2CAA2D;AAE3D,MAAa,kBAAmB,SAAQ,sBAAa;IACnD,YAAY,YAAoB;QAC9B,KAAK,CACH;YACE,UAAU,EAAE,mBAAU,CAAC,SAAS;YAChC,OAAO,EAAE,YAAY;SACtB,EACD,mBAAU,CAAC,SAAS,CACrB,CAAC;IACJ,CAAC;CACF;AAVD,gDAUC"}
